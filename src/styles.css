@@ -1,0 +1,30 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  p {
+    font-size: small;
+  }
+  button {
+    padding: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    background-color: teal;
+    cursor: pointer;
+  }
+  li {
+    list-style: none;
+    float: center;
+    border: 1px solid teal;
+    padding: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+  }
+  .name {
+    font-size: 1.3rem;
+    margin: auto;
+  }
+  
